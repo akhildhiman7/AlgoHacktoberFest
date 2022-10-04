@@ -6,5 +6,5 @@ Please follow the below guidelines before contributing to this repository
 2. Please write proper Documentation for your sub-routines
 3. Please provide a meaningful name for your files
 4. Add necessary links, if you're referencing the code from some website/blog
-5. We don't care about the Language you want to use, as long as it follow proper indentation
+5. We don't care about the Language you want to use, as long as it follows proper indentation
 6. You can use Tab or Spaces as per your comfort
